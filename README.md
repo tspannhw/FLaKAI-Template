@@ -5,7 +5,9 @@ Setup
 
 * curl -s "https://get.sdkman.io" | bash
 * curl -fsSL https://ollama.com/install.sh | sh
-* 
+* curl -LsSf https://astral.sh/uv/install.sh | sh
+
+  
 #### Python Libraries
 
 * timm
